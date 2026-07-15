@@ -4,7 +4,7 @@ go 1.25.0
 
 require (
 	cloud.google.com/go/billing v1.21.0
-	cloud.google.com/go/iam v1.7.0
+	cloud.google.com/go/iam v1.11.0
 	cloud.google.com/go/resourcemanager v1.15.0
 	github.com/GoogleCloudPlatform/cloud-foundation-toolkit/infra/blueprint-test v0.17.9
 	github.com/gruntwork-io/terratest v0.55.0
