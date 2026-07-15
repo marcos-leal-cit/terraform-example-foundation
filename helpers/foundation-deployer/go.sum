@@ -61,8 +61,8 @@ github.com/googleapis/enterprise-certificate-proxy v0.3.17 h1:73NfMHdiqo9JFU9+7a
 github.com/googleapis/enterprise-certificate-proxy v0.3.17/go.mod h1:rSEsBUemEBZEexP2y6jPp16LUmUbjmSbcPMQizR0o4k=
 github.com/googleapis/gax-go/v2 v2.22.0 h1:PjIWBpgGIVKGoCXuiCoP64altEJCj3/Ei+kSU5vlZD4=
 github.com/googleapis/gax-go/v2 v2.22.0/go.mod h1:irWBbALSr0Sk3qlqb9SyJ1h68WjgeFuiOzI4Rqw5+aY=
-github.com/gruntwork-io/terratest v0.50.0 h1:AbBJ7IRCpLZ9H4HBrjeoWESITv8nLjN6/f1riMNcAsw=
-github.com/gruntwork-io/terratest v0.50.0/go.mod h1:see0lbKvAqz6rvzvN2wyfuFQQG4PWcAb2yHulF6B2q4=
+github.com/gruntwork-io/terratest v0.55.0 h1:NgG6lm2dArdQ3KcOofw6PTfVRK1Flt7L3NNhFSBo72A=
+github.com/gruntwork-io/terratest v0.55.0/go.mod h1:OE0Jsc8Wn5kw/QySLbBd53g9Gt+xfDyDKChwRHwkKvI=
 github.com/hashicorp/errwrap v1.0.0/go.mod h1:YH+1FKiLXxHSkmPseP+kNlulaMuP3n2brvKWEqk/Jc4=
 github.com/hashicorp/errwrap v1.1.0 h1:OxrOeh75EUXMY8TBjag2fzXGZ40LB6IKw45YeGUDY2I=
 github.com/hashicorp/errwrap v1.1.0/go.mod h1:YH+1FKiLXxHSkmPseP+kNlulaMuP3n2brvKWEqk/Jc4=
